@@ -1,5 +1,5 @@
   const firebaseConfig = {
-    apiKey: "AIzaSyABif7NQcFBj0E_AiwoJlIPdQJFjlR6wlM",
+    apiKey: "",
     authDomain: "react-firebase-crud-79d05.firebaseapp.com",
     databaseURL: "https://react-firebase-crud-79d05.firebaseio.com",
     projectId: "react-firebase-crud-79d05",
